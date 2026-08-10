@@ -1,0 +1,6 @@
+{
+  "name": "LensView - Photo Customer Preview",
+  "description": "Secure photo customer preview platform for photo studios with download protection, server-side watermarking, album management, and expiry links.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
